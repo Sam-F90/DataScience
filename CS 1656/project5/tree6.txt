@@ -1,0 +1,11 @@
+color black: good (3)
+color blue
+|   fruit grapes: good (2)
+|   fruit blueberries
+|   |   day sun: good (6)
+|   |   day mon: good (3)
+|   |   day tues: bad (9)
+color green
+|   fruit grapes: good (3)
+|   fruit oranges: bad (8)
+color red: bad (0)

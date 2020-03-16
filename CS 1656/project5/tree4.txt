@@ -1,0 +1,3 @@
+fruit blueberries: bad (0) 
+fruit grapes: bad (0) 
+fruit oranges: good (0) 
